@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Source code from:
+% https://www.mathworks.com/help/images/low-light-image-enhancement.html
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 A = imread("lowlight.jpg");
 imshow(A);
 
